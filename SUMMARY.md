@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Getting Started with MayaOnline](chapter1.md)
+* Logging in to MayaOnline
+

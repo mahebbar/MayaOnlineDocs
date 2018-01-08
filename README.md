@@ -1,3 +1,4 @@
-# My Awesome Book
+# MayaOnline Getting Started Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book introduces you to MayaOnline concepts, how to login, integrating the various applications, monitoring, analytics, and how to import clusters.
+
