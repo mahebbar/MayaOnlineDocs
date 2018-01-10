@@ -17,7 +17,7 @@ MayaOnline.io - is a first solution of its type and is free for basic usage. It 
 ## **Analytics**
 
 * MayaOnline shows how workloads are performing and consuming data across clouds; for example, which storage policies result in higher performance for your workloads, irrespective of the underlying cloud vendor or data center?
-* MayaOnline analytics are based on the CNCF project Prometheus. Prometheus is noted for its scalability and usefulness in distributed environments. Much more about Prometheus here: [https://prometheus.io](https://prometheus.io)
+* MayaOnline analytics are based on the CNCF project Prometheus. Prometheus is noted for its scalability and usefulness in distributed environments. For more information about Prometheus, see [https://prometheus.io](https://prometheus.io).
 
   At the centre of our architecture, MayaOnline runs a Prometheus system for each user and interacts with the Prometheus node exporters of each cluster in user’s cloud deployments or in user’s on-premise instances. These time-series data entries are centrally stored and curated on user’s prometheus instance on MayaOnline.
 
