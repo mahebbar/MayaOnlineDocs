@@ -22,8 +22,6 @@ MayaOnline analytics are based on the CNCF project Prometheus. Prometheus is not
 
 Intuitive graphs are delivered using Grafana.
 
-## Monitoring
-
 ## **ChatOps and other controls**
 
 In addition to the graphical interface enabling analytics and the creation and management of automations, ChatOps is used to communicate with users. MayaOnline can post status to Slack channels and you can initiate actions from these channels that MayaOnline will execute. ChatOps also enables developers and administrators to respond to data related alerts and also query the data plane from Slack itself.
