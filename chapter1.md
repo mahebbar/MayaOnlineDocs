@@ -1,16 +1,22 @@
-# Logging in to MayaOnline
+# Accessing MayaOnline
 
-Go to www.mayaonline.io.
+To use MayaOnline you must log in.
 
-# Signing up
+1. Go to the [www.mayaonline.io](/www.mayaonline.io) URL.
+2. Click **Sign In** to request an invite using GitHub.
+3. Enter your Username or email address.
+4. Enter your password.
+5. Click **Sign In**.
 
-Invitations
 
-Request an invite using GitHub
 
-Click Sign In
+# Signing Up
 
-A verification link is sent to the email address you entered. If you do not verify, you will not be able to access MAYAOnline.
+1. A verification link is sent to the email address you specified. 
+2. Click on the link sent to your email id for MayaOnline to verify your email address.   
+   If you do not verify, you will not be able to access MayaOnline.
 
-Click on the link in the email for MayaOnline to verify your email address. Once your email address has been verified successfully, you will be notified after access has been granted.
+3. Once your email address has been verified successfully, you will be notified after access has been granted.
+
+
 

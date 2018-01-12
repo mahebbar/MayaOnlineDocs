@@ -8,11 +8,13 @@ Self management of storage for **DevOps**, with the help of software.
 
 # MayaOnline Workflow
 
+The following workflow explains the flow from the time you subscribe to MayaOnline, importing clusters,  to integrating it with Slack and other applications.
+
 ![](/assets/MayaOnline %287%29.png)
 
 # Why MayaOnline
 
-MayaOnline.io - is a first solution of its type and is free for basic usage. It leverages the cross-cloud capabilities of Kubernetes and containers themselves and extends them to the data-plane with the help of the fully containerized OpenEBS called as a “Cross-cloud data-plane” solution.
+MayaOnline.io is a first solution of its type and is free for basic usage. It leverages the cross-cloud capabilities of Kubernetes and containers themselves and extends them to the data-plane with the help of the fully containerized OpenEBS called as a “Cross-cloud data-plane” solution.
 
 ## **Analytics**
 
@@ -24,15 +26,15 @@ Intuitive graphs are delivered using Grafana.
 
 ## **ChatOps and other controls**
 
-In addition to the graphical interface enabling analytics and the creation and management of automations, ChatOps is used to communicate with users. MayaOnline can post status to Slack channels and you can initiate actions from these channels that MayaOnline will execute. ChatOps also enables developers and administrators to respond to data related alerts and also query the data plane from Slack itself.
+In addition to the graphical interface enabling analytics and the creation and management of automations, ChatOps is used to communicate with users. MayaOnline can post status to Slack channels and you can initiate actions from these channels that MayaOnline executes. ChatOps also enables developers and administrators to respond to data related alerts and also query the data plane from Slack itself.
 
 ## **API driven**
 
-While ChatOps is useful to keep users in the loop, many decisions in large environments are made as a part of a pipeline or other automation. MayaOnline can be queried for relevant information or can proactively post information using its Rest APIs.
+While ChatOps is useful to keep users in the loop, many decisions in large environments are made as part of a pipeline or other automation. You can query MayaOnline for relevant information or can proactively post information using its REST APIs.
 
 ## **cMotion**
 
-MayaOnline will be able to balance workloads across clouds proactively. This balancing is implemented in a Kubernetes friendly way - where OpenEBS instances are reconfigured along with the storage policies that are used by Kubernetes to control them. At KubeCon 2017 in Austin, we are demonstrating cross-cloud balancing where workloads \(both stateless and stateful\) from one cloud are automatically replicated to other cloud vendor and made available in that cloud. This capability will be expanded significantly in 2018.
+MayaOnline will be able to balance workloads across clouds proactively. This balancing is implemented in a Kubernetes friendly way - where OpenEBS instances are reconfigured along with the storage policies that are used by Kubernetes to control them. At KubeCon 2017 in Austin, cross-cloud balancing where workloads \(both stateless and stateful\) from one cloud are automatically replicated to other cloud vendor and made available in that cloud was demonstrated. This capability will be expanded will be enhanced further.
 
-MayaOnline includes initial cMotion capabilities. These rely upon the power of individual OpenEBS containers which - if they are using the new cStore storage engine - have the ability to deliver copy on write based snapshots. These snapshots - and the approach to writing data to disk itself - are inherently safer and more efficient than many other approaches to replication. When used for replication, this approach means that only changes to the underlying data are sent across the network to the far end. The entire experience of moving the OpenEBS data containers across user’s Kubernetes clusters is seamlessly handled by MayaOnline.
+MayaOnline includes initial cMotion capabilities. These rely upon the power of individual OpenEBS containers which if using the new cStore storage engine has the ability to deliver and copy on write based snapshots. These snapshots and the approach to writing data to the disk itself are inherently safer and more efficient than many other approaches to replication. When used for replication, this approach means that only changes to the underlying data are sent across the network to the far end. The entire experience of moving the OpenEBS data containers across user’s Kubernetes clusters is seamlessly handled by MayaOnline.
 
