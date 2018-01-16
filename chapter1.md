@@ -9,7 +9,7 @@ To use MayaOnline you must log in.
 5. Click **Sign in**.
    You will see the Import a cluster screen.
 
-# Signing Up
+# Signing Up &lt;&lt;To check&gt;&gt;
 
 1. A verification link is sent to the email address you specified. 
 2. Click **Confirm email address** or verify your email by clicking on the link sent to your email id for MayaOnline to verify your email address.  
@@ -24,9 +24,15 @@ To use MayaOnline you must log in.
 
 # Inviting Users
 
-Click **Invite **to invite friends to use MayaOnline.
+1. Click **Invite **to invite friends to use MayaOnline.
+2. Enter the email address and the users will receive an invitation.
+3. The users can follow the Signing Up procedure.
 
-Enter the email address and the users will receive and invitation.
 
-The users can follow the Signing Up procedure.
+
+What Next:
+
+Importing your first cluster
+
+
 
