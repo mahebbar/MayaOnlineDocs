@@ -4,7 +4,7 @@
 * [Introduction](introduction.md)
 * [Logging in to MayaOnline](chapter1.md)
 * [Concepts](concepts.md)
-* [Integration](integration.md)
+* [Integrations](integration.md)
 * [Importing Clusters](importing-clusters.md)
 * [Monitoring for OpenEBS Volumes](monitoring-for-openebs-volumes.md)
 * [OpenEBS Applications, Volumes, and Pods](openebs-applications-volumes-and-pods.md)
