@@ -8,6 +8,10 @@ Click on **Integrations **on the left pane and the screen displays the list of a
 
 ## Multiple Slack Channels
 
+## Integrating with Grafana
+
+## Integrating with Weave Cortex
+
 ## Troubleshooting
 
 
