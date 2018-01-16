@@ -14,11 +14,11 @@ Managing clusters in MayaOnline is simple and easy to use. By default, when you 
 
 1. Click on the ![](/assets/dotmenu.png)  icon and select **Edit**.
 
-1. Edit the **Name **and **Description **of the cluster if required.
+2. Edit the **Name **and **Description **of the cluster if required.
 
-* Select the provider image from the drop-down list on the right.
+3. Select the provider image from the drop-down list on the right.
 
-Click Save.
+4. Click **Save**.
 
 ## Deleting a Cluster
 
