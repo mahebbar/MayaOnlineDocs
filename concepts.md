@@ -14,7 +14,7 @@ Click **Organizations **tab next to the MayaOnline logo on the top pane. The fol
 
 ## Clusters
 
-On the Clusters page, you can view the list of clusters that you have already imported. You can also see the status of these clusters that is, if they are active or inactive. For more information about managing clusters, see [Managing Clusters.](/importing-clusters.md)
+On the **Clusters **page, you can view the list of clusters that you have already imported. You can also see the status of these clusters that is, if they are active or inactive. For more information about managing clusters, see [Managing Clusters.](/importing-clusters.md)
 
 ## Account
 

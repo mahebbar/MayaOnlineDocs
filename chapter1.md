@@ -28,11 +28,9 @@ To use MayaOnline you must log in.
 2. Enter the email address and the users will receive an invitation.
 3. The users can follow the Signing Up procedure.
 
+###### 
 
+###### What Next:
 
-What Next:
-
-Importing your first cluster
-
-
+[Adding and Importing Clusters](/Adding and Importing Clusters)
 
