@@ -10,6 +10,10 @@ Managing clusters in MayaOnline is simple and easy to use. By default, when you 
 4. Close the window.
 5. Paste the command at the command prompt and run the command.
 
+## Audit Logs
+
+
+
 ## Editing a Cluster
 
 1. Click on the ![](/assets/dotmenu.png)  icon and select **Edit**.

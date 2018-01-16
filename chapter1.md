@@ -3,10 +3,11 @@
 To use MayaOnline you must log in.
 
 1. Go to the [www.mayaonline.io](/www.mayaonline.io) URL.
-2. Click **Sign In** to request an invite using GitHub.
-3. Enter your Username or email address.
-4. Enter your password.
-5. Click **Sign In**.
+2. Click **Sign in with GitHub **for GitHub to authorize you.
+3. If you have not already signed in to GitHub, GitHub will ask you to enter your **GitHub Username or email address**.
+4. Enter your GitHub **Password**.
+5. Click **Sign in**.
+   You will see the Import a cluster screen.
 
 # Signing Up
 
