@@ -2,13 +2,15 @@
 
 ## Organizations
 
-The Organizations tab 
+The Organizations tab
 
-Click **Organizations **tab next to the MayaOnline logo on the top pane.
+Click **Organizations **tab next to the MayaOnline logo on the top pane. **Members** option is selected by default.
 
 Member details such as your organization name, email id, Github username, role that you play in your organization, the status and when you joined MayaOnline is displayed similar to the following screen.
 
 &lt;&lt;Insert screen shot&gt;&gt;
+
+Click on **Integrations **on the left pane and the screen displays the list of applications that you have integrated under_ Monitoring Integrations_ and _ChatOps Integrations_. For more information, see [Integrations.](/integration.md)
 
 ## Clusters
 
