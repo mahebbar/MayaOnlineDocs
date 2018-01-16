@@ -1,22 +1,12 @@
-# Integration
-
-
+# Integrations
 
 ## How to add Slack?
 
-
-
 ## Adding Slack Configuration
-
-
 
 ## Multiple Slack Channels
 
-
-
 ## Troubleshooting
-
-
 
 
 
