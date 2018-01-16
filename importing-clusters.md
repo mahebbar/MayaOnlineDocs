@@ -14,9 +14,13 @@ Click **Import a cluster now ** or view a demo by clicking on the **Watch how to
 4. Close the window.
 5. Paste the command at the Terminal \(which has access to the cluster\) and press **Enter **to run the command.
 
-**Note:** You can also click on the ![](/assets/dotmenu.png)  icon, and select **Import **on an _Inactive _cluster and follow the procedure above from step 2.
+**Note:** You can also click on the ![](/assets/dotmenu.png)  icon, and select **Import **on an \_Inactive \_cluster and follow the procedure above from step 2.
 
 ## Audit Logs
+
+tracks the cluster activities performed by the user.  What kind of activities. &lt;&lt;TBD&gt;&gt;
+
+&lt;&lt;add screen shot&gt;&gt;
 
 ## Editing a Cluster
 
