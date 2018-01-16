@@ -1,18 +1,12 @@
 # Managing Clusters
 
-## How to Import Clusters?
+Managing clusters in MayaOnline is simple and easy to use. By default, when you login, the **Clusters **page is displayed. You can add a cluster to import, edit a cluster, and delete a cluster using the following procedures.
 
-Import and existing OpenEBS cluster or Install OpenEBS on your K8S cluster and import
-
-A kubectl command is displayed. Click Copy to copy the command and run it at your command prompt.
-
-Close the window.
-
-## Importing a Cluster
+## Importing Clusters
 
 1. Click on the **+** sign to add a cluster for importing.
 2. You can either **Import an existing OpenEBS cluster** or **Install OpenEBS on your K8s cluster and import. **Click on either of these options.
-3. You will receive a kubectl command. Click **Copy **to copy the command.
+3. A kubectl command is displayed. Click **Copy **to copy the command and run it at your command prompt.
 4. Close the window.
 5. Paste the command at the command prompt and run the command.
 
