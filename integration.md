@@ -23,13 +23,13 @@ Mulebot application covers the storage operational support of Kubernetes cluster
 * High CPU Usage
 * High Disk Usage and so on.
 
-### How to add to Slack?
+### Adding Slack Configuration
 
 **Prerequisite:**
 
 You must have a Slack workspace.
 
-To add to Slack use the following procedure.
+**To add to Slack, use the following procedure.**
 
 1. Go to **Organizations **&gt; **Integrations **from the MayaOnline page.
 2. Click **Add to Slack**.
@@ -40,7 +40,9 @@ To add to Slack use the following procedure.
    **Note:** You can also select multiple clusters.
    You will see the clusters you have added in the **Active connections** box.
 
-To edit a cluster use the following procedure.
+**Note:** Repeat the above procedure to add multiple slack channels.
+
+**To edit a cluster, use the following procedure.**
 
 1. Click **Edit **in the **Active connections** box.
 2. Click the **Select cluster** drop-down list.
@@ -48,15 +50,10 @@ To edit a cluster use the following procedure.
 4. Click **Done**.
    You will see the changes you have made in the **Active connections** box.
 
-To delete a cluster use the following procedure.
+**To delete a cluster, use the following procedure.**
 
-1. Click Delete in the **Active connections** box.
-2. Click the **Select cluster** drop-down list.
-3. Select or deselect the clusters.
-4. Click **Done**.
-   You will see that the cluster is not visible in the **Active connections** box.
-
-
+1. Click **Delete **in the **Active connections** box.
+   You will see that the clusters are not visible in the **Active connections** box.
 
 ### Adding Slack Configuration
 
