@@ -50,10 +50,11 @@ To edit a cluster use the following procedure.
 
 To delete a cluster use the following procedure.
 
-1. 
-
-
-
+1. Click Delete in the **Active connections** box.
+2. Click the **Select cluster** drop-down list.
+3. Select or deselect the clusters.
+4. Click **Done**.
+   You will see that the cluster is not visible in the **Active connections** box.
 
 
 
