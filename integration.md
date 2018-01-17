@@ -12,18 +12,50 @@ Integrating ChatOps enables interaction between clusters present in the organiza
 
 ### What is Mulebot?
 
-Mulebot application covers the storage operational support of Kubernetes clusters. DevOps developers and administrators receive alerts, analytics of their OpenEBS volumes deployed across multi-cloud Kubernetes clusters into their [slack](https://slack.com/) channels, and also provides a way to query any configuration and status from Slack. The Muletbot functionality also includes interacting with DevOps developers and administrators to manage the yaml configurations files in their CI/CD system. The Mulebot enhances your experience with MayaOnline by allowing you to query the MayaOnline clusters'  configuration. Mulebot also keeps you informed about the current status of clusters that you have imported in MayaOnline by sending alerts whenever required. Once you integrate Slack, you will receive alerts related to the clusters imported in mayaonline to particular Slack Channel.
+Mulebot application covers the storage operational support of Kubernetes clusters. DevOps developers and administrators receive alerts, analytics of their OpenEBS volumes deployed across multi-cloud Kubernetes clusters into their [slack](https://slack.com/) channels, and also provides a way to query any configuration and status from Slack. The Muletbot functionality also includes interacting with DevOps developers and administrators to manage the yaml configurations files in their CI/CD system. The Mulebot enhances your experience with MayaOnline by allowing you to query the MayaOnline clusters'  configuration. Mulebot also keeps you informed about the current status of clusters that you have imported in MayaOnline by sending alerts as required. Once you integrate Slack, you will receive alerts related to the clusters imported in MayaOnline to the specified Slack channel. Following are the various types of alerts that you will receive.
 
-**Types of alerts**:
+* Cluster Up 
+* Cluster Down  
+* Volume Up  
+* Volume Down  
+* Volume Write Latency   
+* Volume Read Latency  
+* High CPU Usage
+* High Disk Usage and so on.
 
-1. Cluster Up Alert:
-2. Cluster Down Alert:
-3. Volume Up Alert:
-4. Volume Down Alert:
-5. Volume Write Latency Alert:
-6. Volume Read Latency Alert:
+### How to add to Slack?
 
-### How to add Slack?
+**Prerequisite:**
+
+You must have a Slack workspace.
+
+To add to Slack use the following procedure.
+
+1. Go to **Organizations **&gt; **Integrations **from the MayaOnline page.
+2. Click **Add to Slack**.
+3. Select the workspace from the drop-down list.
+4. Select a channel from the **Post to** drop-down list.
+5. Click **Authorize**.
+6. Select a cluster you have imported from the **Select cluster** drop-down list.
+   **Note:** You can also select multiple clusters.
+   You will see the clusters you have added in the **Active connections** box.
+
+To edit a cluster use the following procedure.
+
+1. Click **Edit **in the **Active connections** box.
+2. Click the **Select cluster** drop-down list.
+3. Select or deselect the clusters.
+4. Click **Done**.
+   You will see the changes you have made in the **Active connections** box.
+
+To delete a cluster use the following procedure.
+
+1. 
+
+
+
+
+
 
 ### Adding Slack Configuration
 
