@@ -1,24 +1,35 @@
 # Integrations
 
-Click on **Integrations **on the left pane and the screen displays the list of applications that you have integrated under Monitoring Integrations and ChatOps Integrations.
+From the MayaOnline main page, go to **Organizations  **and select **Integrations **on the left pane. The screen displays a list of applications that you have integrated under _Monitoring Integrations_ and an option to add to slack under _ChatOps Integrations_.
 
-## ChatOps Integrations
+## Monitoring Integration
 
-Enables interaction between clusters present in the organization on [mayaonline](https://mayaonline.io/) and you through Slack. You will be able to get alerts and query applications present in mayaonline through slash commands.
+&lt;&lt;TBD&gt;&gt;
 
-## How to add Slack?
+## ChatOps Integration
 
-## 
+Integrating ChatOps enables interaction between clusters present in the organization on [MayaOnline](https://mayaonline.io/) and you through Slack. You will be able to receive alerts and query applications present in MayaOnline through slash commands.
 
-## What is Mulebot?
+### What is Mulebot?
 
-Mulebot application is one of the core areas of [MayaOnline](https://mayaonline.io/), covering the storage operational support of kubernetes clusters. DevOps developers and admins get the alerts and analytics of their OpenEBS volumes deployed across multi-cloud kubernetes clusters right into their[slack](https://slack.com/)channels. Its functionality extends beyond just simply providing alerts and providing a way to query any configuration and status from slack, It goes all the way to interact withDevOpsdevelopers and admins to manage the yaml config files in their CI/CD system.
+Mulebot application covers the storage operational support of Kubernetes clusters. DevOps developers and administrators receive alerts, analytics of their OpenEBS volumes deployed across multi-cloud Kubernetes clusters into their [slack](https://slack.com/) channels, and also provides a way to query any configuration and status from Slack. The Muletbot functionality also includes interacting with DevOps developers and administrators to manage the yaml configurations files in their CI/CD system. The Mulebot enhances your experience with MayaOnline by allowing you to query the MayaOnline clusters'  configuration. Mulebot also keeps you informed about the current status of clusters that you have imported in MayaOnline by sending alerts whenever required. Once you integrate Slack, you will receive alerts related to the clusters imported in mayaonline to particular Slack Channel.
 
-Mulebot will enhance user's experience with the MayaOnline by allowing them to query the clusters'  configuration of MayaOnline and they will always be kept informed by the bot about the current status of clusters they have imported in MayaOnline by sending alerts whenever required.
+**Types of alerts**:
 
-## Adding Slack Configuration
+1. Cluster Up Alert:
+2. Cluster Down Alert:
+3. Volume Up Alert:
+4. Volume Down Alert:
+5. Volume Write Latency Alert:
+6. Volume Read Latency Alert:
 
-## Multiple Slack Channels
+### How to add Slack?
+
+### Adding Slack Configuration
+
+slack card
+
+Multiple Slack Channels
 
 ## Integrating with Grafana
 
