@@ -20,5 +20,5 @@ On the **Clusters **page, you can view the list of clusters that you have alread
 
 ## GitHub Authentication
 
-
+To login to MayaOnline, you must have a GitHub account and use the GitHub credentials. For more information about logging in, see [Accessing MayaOnline](/Accessing MayaOnline).
 
