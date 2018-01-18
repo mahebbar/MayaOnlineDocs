@@ -8,6 +8,8 @@ Click **Import a cluster now ** or view a demo by clicking on the **Watch how to
 
 ## Adding and Importing Clusters
 
+You must add a cluster and import them to so that you can monitor 
+
 1. Click on the **+** sign to add a cluster.  
 2. You can either **Import an existing OpenEBS cluster** or **Install OpenEBS on your K8s cluster and import. **Click on either of these options.
 3. A kubectl command is displayed. Click **Copy **to copy the command and run it at your command prompt.
@@ -15,15 +17,17 @@ Click **Import a cluster now ** or view a demo by clicking on the **Watch how to
 5. Paste the command at the Terminal \(which has access to the cluster\) and press **Enter **to run the command.
    You will be automatically redirected to the Clusters page where you can see the cluster details such as the OpenEBS applications  and host details, and clicking **Kubernetes Dashboard** displays the Kubernetes dashboard associated with that cluster. 
 
-screenshot required??
+**&lt;&lt;screenshot required??&gt;&gt;**
 
 **Note:** You can also click on the ![](/assets/dotmenu.png)  icon, and select **Import **on an \_Inactive \_cluster and follow the procedure above from step 2.
 
 ## Audit Logs
 
-tracks the cluster activities performed by the user.  What kind of activities. &lt;&lt;TBD&gt;&gt;
+tracks the cluster activities performed by the user.  What kind of activities. 
 
-&lt;&lt;add screen shot&gt;&gt;
+**&lt;&lt;TBD&gt;&gt;**
+
+**&lt;&lt;add screen shot&gt;&gt;**
 
 ## Editing a Cluster
 

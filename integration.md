@@ -4,7 +4,7 @@ From the MayaOnline main page, go to **Organizations  **and select **Integration
 
 ## Monitoring Integration
 
-&lt;&lt;TBD&gt;&gt;
+**&lt;&lt;TBD&gt;&gt;**
 
 ## ChatOps Integration
 
@@ -57,9 +57,7 @@ You must have a Slack workspace.
 
 ### Adding Slack Configuration
 
-slack card
-
-Multiple Slack Channels
+&lt;&lt;Do you as Admin install Mulebot or is it installed automatically when you click Add to slack option.??&gt;&gt;
 
 ## Integrating with Grafana
 
