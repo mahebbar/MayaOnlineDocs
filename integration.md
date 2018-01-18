@@ -8,7 +8,14 @@ From the MayaOnline main page, go to **Organizations  **and select **Integration
 
 ## ChatOps Integration
 
-Integrating ChatOps enables interaction between clusters present in the organization on [MayaOnline](https://mayaonline.io/) and you through Slack. You will be able to receive alerts and query applications present in MayaOnline through slash commands.
+Integrating ChatOps enables interaction between clusters present in the organization on [MayaOnline](https://mayaonline.io/) and you through Slack. You will be able to receive alerts and query applications present in MayaOnline through slash commands such as the following.
+
+* **/maya get clusters **- Lists all the clusters imported in MayaOnline whether active or inactive. 
+* **/maya get cluster cluster-name/cluster-Id** - Fetches all  details of that particular cluster whose cluster-name or cluster-Id is provided.
+* **/maya help **- Displays a list of all the available slash commands and their functionality that can be used to query the Mulebot.
+
+  
+
 
 ### What is Mulebot?
 
@@ -53,7 +60,7 @@ You must have a Slack workspace.
 **To delete a cluster, use the following procedure.**
 
 1. Click **Delete **in the **Active connections** box.
-   You will see that the clusters are not visible in the **Active connections** box.
+   You will see that the clusters are now not visible in the **Active connections** box.
 
 ### Adding Slack Configuration
 
