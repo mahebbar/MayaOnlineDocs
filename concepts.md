@@ -19,6 +19,8 @@ On the **Clusters **page, you can import your very first cluster. You can also v
 
 **&lt;&lt;TBD&gt;&gt;**
 
+Users/Admin
+
 ## GitHub Authentication
 
 To login to MayaOnline, you must have a GitHub account and use the GitHub credentials. For more information about logging in, see [Accessing MayaOnline](/Accessing MayaOnline).

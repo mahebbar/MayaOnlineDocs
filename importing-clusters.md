@@ -8,7 +8,7 @@ Click **Import a cluster now ** or view a demo by clicking on the **Watch how to
 
 ## Adding and Importing Clusters
 
-You must add a cluster and import them to so that you can monitor 
+You must add a cluster and import them to so that you can monitor
 
 1. Click on the **+** sign to add a cluster.  
 2. You can either **Import an existing OpenEBS cluster** or **Install OpenEBS on your K8s cluster and import. **Click on either of these options.
@@ -20,14 +20,6 @@ You must add a cluster and import them to so that you can monitor
 **&lt;&lt;screenshot required??&gt;&gt;**
 
 **Note:** You can also click on the ![](/assets/dotmenu.png)  icon, and select **Import **on an \_Inactive \_cluster and follow the procedure above from step 2.
-
-## Audit Logs
-
-tracks the cluster activities performed by the user.  What kind of activities. 
-
-**&lt;&lt;TBD&gt;&gt;**
-
-**&lt;&lt;add screen shot&gt;&gt;**
 
 ## Editing a Cluster
 

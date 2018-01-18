@@ -16,11 +16,9 @@ Click **Kubernetes Dashboard** to view the cluster details.
 
 details of the volumes in an application. status of the volume monitored by OpenEBS and used by an application.
 
-Volume details such as Name, Status, and Capacity of the volume. It also displays the status of the Controller and the replicas.
+Volume details such as Name, Status, and Capacity of the volume. It also displays the status of the Controller and the replicas. For more information about monitoring volumes, see
 
 # Pods
 
-**&lt;&lt;TBD&gt;&gt;**
-
-
+**&lt;&lt;TBD&gt;&gt; ?????**
 

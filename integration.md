@@ -14,12 +14,14 @@ Integrating ChatOps enables interaction between clusters present in the organiza
 
 Mulebot application covers the storage operational support of Kubernetes clusters. DevOps developers and administrators receive alerts, analytics of their OpenEBS volumes deployed across multi-cloud Kubernetes clusters into their [Slack](https://slack.com/) channels, and also provides a way to query any configuration and status from Slack. The Muletbot functionality also includes interacting with DevOps developers and administrators to manage the yaml configurations files in their CI/CD system. The Mulebot enhances your experience with MayaOnline by allowing you to query the MayaOnline clusters' configuration and MayaOnline applications using the following slash commands.
 
+**&lt;&lt;to add all commands or only maya help??&gt;&gt;**
+
 * **/maya get clusters**
-  - Lists all the clusters imported in MayaOnline whether active or inactive.
+  * Lists all the clusters imported in MayaOnline whether active or inactive.
 * **/maya get cluster cluster-name/cluster-Id**
-  - Fetches all details of that particular cluster whose cluster-name or cluster-Id is provided.
+  * Fetches all details of that particular cluster whose cluster-name or cluster-Id is provided.
 * **/maya help**
-  - Displays a list of all the available slash commands and their functionality that can be used to query the Mulebot..
+  * Displays a list of all the available slash commands and their functionality that can be used to query the Mulebot..
 
 Mulebot also keeps you informed about the current status of clusters that you have imported in MayaOnline by sending alerts as required. Once you integrate Slack, you will receive alerts related to the clusters imported in MayaOnline to the specified Slack channel. Following are the various types of alerts that you will receive.
 
@@ -27,8 +29,8 @@ Mulebot also keeps you informed about the current status of clusters that you ha
 * Cluster Down  
 * Volume Up  
 * Volume Down  
-* Volume Write Latency   
-* Volume Read Latency  
+* Volume Write Latency  ??
+* Volume Read Latency  ??
 * High CPU Usage
 * High Disk Usage and so on.
 
@@ -64,11 +66,9 @@ You must have a Slack workspace.
 1. Click **Delete **in the **Active connections** box.
    You will see that the clusters are now not visible in the **Active connections** box.
 
-### Adding Slack Configuration
-
-&lt;&lt;Do you as Admin install Mulebot or is it installed automatically when you click Add to slack option.??&gt;&gt;
-
 ## Integrating with Grafana
+
+details by moteesh
 
 ## Integrating with Weave Cortex
 
