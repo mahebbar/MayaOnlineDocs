@@ -2,7 +2,7 @@
 
 **&lt;&lt;In progress&gt;&gt;**
 
-On the **Clusters **page, click on a cluster to see the applications running on that cluster.
+On the **Clusters **page, you will see the clusters that you have added. The status is inactive for these clusters. Once you import the cluster \([adding and importing clusters](/adding and importing clusters)\) using the click on a cluster to see the applications running on that cluster.
 
 ![](/assets/applications.png)
 
