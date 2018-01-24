@@ -1,3 +1,8 @@
+---
+id: gs2
+title: Accessing MayaOnline
+sidebar_label: Logging In
+---
 # Accessing MayaOnline
 
 To use MayaOnline you must log in using the following procedure.
