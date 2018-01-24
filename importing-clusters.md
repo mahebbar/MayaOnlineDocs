@@ -1,3 +1,8 @@
+---
+id: gs5
+title: Managing Clusters
+sidebar_label: Managing Clusters
+---
 # Managing Clusters
 
 Managing clusters in MayaOnline is simple and easy to use. By default, when you login, the **Clusters **page is displayed. You can add a cluster to import, edit a cluster, and delete a cluster using the following procedures.
