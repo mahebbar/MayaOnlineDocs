@@ -1,3 +1,8 @@
+---
+id: gs6
+title: Monitoring 
+sidebar_label: Monitoring
+---
 # Monitoring for OpenEBS Volumes
 
 important to monitor your system to validate that everything is working as expected. Monitoring is not just about faults either. It can help you understand how much the system is being used, and when you need to scale it out.
