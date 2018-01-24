@@ -5,7 +5,6 @@ sidebar_label: OpenEBS Applications, Volumes, and Pods
 ---
 # OpenEBS Applications
 
-**&lt;&lt;In progress&gt;&gt;**
 
 On the **Clusters **page, you will see the clusters that you have added. The status is **Inactive **for these clusters. Once you import the cluster \([adding and importing clusters](/adding and importing clusters)\), the cluster status becomes **Active**.  Click **Applications **to see the applications running on that cluster.
 
