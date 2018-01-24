@@ -18,19 +18,19 @@ MayaOnline shows how workloads are performing and consuming data across clouds; 
 
 MayaOnline analytics are based on the CNCF project Prometheus. Prometheus is noted for its scalability and usefulness in distributed environments. For more information about Prometheus, see [https://prometheus.io](https://prometheus.io). MayaOnline runs a Prometheus system for each user and interacts with the Prometheus node exporters of each cluster in your cloud deployments or in your on-premise instances. These time-series data entries are centrally stored and curated on your Prometheus instance on MayaOnline.
 
-Intuitive graphs are delivered using Grafana.
+The data is monitored and intuitive graphs are delivered using Grafana. For more information, see [Monitoring for OpenEBS Volumes.](/monitoring-for-openebs-volumes.md)
 
-## **ChatOps and other controls**
+## Mulebot** and other controls**
 
-In addition to the graphical interface enabling analytics and the creation and management of automations, ChatOps is used to communicate with users. MayaOnline can post status to Slack channels and you can initiate actions from these channels that MayaOnline executes. ChatOps also enables developers and administrators to respond to data related alerts and also query the data plane from Slack itself.
+In addition to the graphical interface enabling analytics and the creation and management of automations, Mulebot is used to communicate with users. MayaOnline can post status to Slack channels and you can initiate actions from these channels that MayaOnline executes. Mulebot also enables developers and administrators to respond to data related alerts and also query the data plane from Slack itself.
 
 ## **API driven**
 
-While ChatOps is useful to keep users in the loop, many decisions in large environments are made as part of a pipeline or other automation. You can query MayaOnline for relevant information or can proactively post information using its REST APIs.
+While Mulebot is useful to keep users in the loop, many decisions in large environments are made as part of a pipeline or other automation. You can query MayaOnline for relevant information or can proactively post information using its REST APIs.
 
 ## **cMotion**
 
-MayaOnline will be able to balance workloads across clouds proactively. This balancing is implemented in a Kubernetes friendly way - where OpenEBS instances are reconfigured along with the storage policies that are used by Kubernetes to control them. At KubeCon 2017 in Austin, cross-cloud balancing where workloads \(both stateless and stateful\) from one cloud are automatically replicated to other cloud vendor and made available in that cloud was demonstrated. This capability will be expanded will be enhanced further.
+MayaOnline will be able to balance workloads across clouds proactively. This balancing is implemented in a Kubernetes friendly way - where OpenEBS instances are reconfigured along with the storage policies that are used by Kubernetes to control them. MayaOnline is capable of cross-cloud balancing both stateless and stateful workloads. Workloads from one cloud are automatically replicated to another cloud vendor and made available in that cloud. Enhancement of this feature is planned in future releases.
 
 MayaOnline includes initial cMotion capabilities. These rely upon the power of individual OpenEBS containers which if using the new cStore storage engine has the ability to deliver and copy on write based snapshots. These snapshots and the approach to writing data to the disk itself are inherently safer and more efficient than many other approaches to replication. When used for replication, this approach means that only changes to the underlying data are sent across the network to the far end. The entire experience of moving the OpenEBS data containers across user’s Kubernetes clusters is seamlessly handled by MayaOnline.
 

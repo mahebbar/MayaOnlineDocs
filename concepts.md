@@ -19,7 +19,7 @@ On the **Clusters **page, you can import your very first cluster. You can also v
 
 **&lt;&lt;TBD&gt;&gt;**
 
-Users/Admin
+Users/Admin??
 
 ## GitHub Authentication
 

@@ -70,7 +70,7 @@ You must have a Slack workspace.
 
 details by moteesh
 
-## Integrating with Weave Cortex
+Integrating with Weave Cortex??
 
 ## Troubleshooting
 
