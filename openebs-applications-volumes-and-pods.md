@@ -1,3 +1,8 @@
+---
+id: gs7
+title: OpenEBS Applications, Volumes, and Pods
+sidebar_label: OpenEBS Applications, Volumes, and Pods
+---
 # OpenEBS Applications
 
 **&lt;&lt;In progress&gt;&gt;**
