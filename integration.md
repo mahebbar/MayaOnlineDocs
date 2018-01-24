@@ -1,3 +1,8 @@
+---
+id: gs4
+title: Integrations
+sidebar_label: Integrations
+---
 # Integrations
 
 From the MayaOnline main page, go to **Organizations  **and select **Integrations **on the left pane. The screen displays a list of applications that you have integrated under _Monitoring Integrations_ and an option to add to slack under _ChatOps Integrations_.
@@ -72,7 +77,7 @@ details by moteesh
 
 Integrating with Weave Cortex??
 
-## Troubleshooting
+
 
 
 
