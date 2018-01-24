@@ -1,3 +1,8 @@
+---
+id: gs3
+title: Concepts
+sidebar_label: Concepts
+---
 # Concepts
 
 ## Organizations
