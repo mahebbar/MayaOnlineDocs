@@ -11,7 +11,7 @@ MayaOnline.io is a first solution of its type  and is free for basic usage. It l
 
 The following workflow explains the flow from the time you subscribe to MayaOnline, importing clusters,  to integrating it with Slack and other applications.
 
-![](/assets/MayaOnline %287%29.png)
+![MayaOnline Workflow](https://www.github.com/mayadata-io/maya-docs/assets/MayaOnline.png)
 
 ## **Analytics**
 
