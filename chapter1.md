@@ -26,5 +26,5 @@ You can invite your friends to use MayaOnline. Use the following procedure to in
 
 ###### What Next:
 
-[Adding and Importing Clusters](/Adding and Importing Clusters)
+[Adding and Importing Clusters](#adding-and-importing-clusters)
 
